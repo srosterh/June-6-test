@@ -14,10 +14,11 @@
 
 <param ve-entity eid="Q70702" title="alkaloid">
 <param ve-entity eid="Q200656" title="diurestic">
-<param ve-image label="Gauchos drinking mate" 
+<param ve-image label="vanilla in flower" 
        description="Painting by Candido Lopez" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg">
+       url="https://en.wikipedia.org/wiki/Vanilla_planifolia#/media/File:Vanilla_planifolia_(6998639597).jpg">
+
       
       
 ## History 
