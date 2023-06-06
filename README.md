@@ -17,7 +17,7 @@
 <param ve-image label="vanilla in flower" 
        description="Painting by Candido Lopez" 
        license="public domain" 
-       url="https://en.wikipedia.org/wiki/Vanilla_planifolia#/media/File:Vanilla_planifolia_(6998639597).jpg">
+       url="Starr-130312-2167-Vanilla planifolia-flower-Pali o Waipio Huelo-Maui (24580055063).jpg">
 
       
       
