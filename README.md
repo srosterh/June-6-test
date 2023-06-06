@@ -18,7 +18,13 @@
        description="Painting by Candido Lopez" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg">
-  
+
+<param ve-entity eid="Q70702" title="alkaloid">
+<param ve-entity eid="Q200656" title="diurestic">
+<param ve-image label="Gauchos drinking mate" 
+       description="Painting by Candido Lopez" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg">
       
 ## History 
 
