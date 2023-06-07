@@ -24,3 +24,7 @@ The plant was first given its Western scientific name by French botanist Auguste
 ## Showing a plant specimen
 
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000588599">
+
+<param ve-video
+       id="f87wvXMa-Rk"
+       title="How to prepare mate">
