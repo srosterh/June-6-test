@@ -20,3 +20,6 @@
 ## History 
 
 The plant was first given its Western scientific name by French botanist Auguste de Saint-Hilaire, who traveled throughout South America between 1816 and 1822. Saint Hilaire first identified Ilex paraguariensis, which he deemed an “interesting” tree, among the ruins of the former Jesuit missions in Paraguay and Brazil.  Like many other European botanists of his time, Saint Hilaire was not only concerned with the classification of plants but also with their medicinal and commercial value, and mate was already one of the most traded commodities in the region. In fact, on the title page of his Plantes usuelles des Brasiliens (1824), Saint Hilaire reproduced a quotation by Swiss botanist Augustin Pyramus de Candolle claiming that “the habitants of the Americas will become more and more independent of the Old World by using similar plants for the same purposes as we do.” Paradoxically, the history of mate is a case study of how American plants were turned into commodities to strengthen European rule over Indigenous peoples rather than to foster their autonomy and independence.
+
+## Showing a plant specimen
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.k000588599">
